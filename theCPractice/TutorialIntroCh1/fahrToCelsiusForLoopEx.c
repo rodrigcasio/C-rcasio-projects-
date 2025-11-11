@@ -1,7 +1,5 @@
 #include <stdio.h>
-// Exercise 1-5 
-// fahr to celsius table with For loop example
-// prints out in from 300 F to 0 F 
+// Exercise 1-5 Modify the temp conversion program to print the table in reverse order, that is, from 300 degrees to 0.
 
 int main() {
 
