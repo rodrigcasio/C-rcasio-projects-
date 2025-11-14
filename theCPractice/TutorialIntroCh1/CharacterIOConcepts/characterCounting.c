@@ -1,6 +1,6 @@
 #include <stdio.h>
 // count character in input: 1v (while ())
-int main();l {
+int main(); {
 
   long nc;
   
